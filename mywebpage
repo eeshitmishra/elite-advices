@@ -1,0 +1,208 @@
+<html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Elite Advices with Eeshit</title>
+    <style>
+        body {
+            font-family: 'Georgia', serif;
+            background: #f9f9f9;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background: #2d2d2d;
+            color: #fff;
+            padding: 2rem 0;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: 2rem auto;
+            background: #fff;
+            padding: 2rem;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2, h3 {
+            color: #2d2d2d;
+        }
+        h2 {
+            margin-top: 1.5rem;
+        }
+        p {
+            font-size: 1.1rem;
+            line-height: 1.6;
+        }
+        .section {
+            margin-bottom: 2rem;
+        }
+        .stock-list, .mutual-fund-list {
+            list-style-type: none;
+            padding: 0;
+        }
+        .stock-item, .fund-item {
+            background: #f1f1f1;
+            padding: 1rem;
+            margin-bottom: 1rem;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+        .social-media {
+            text-align: center;
+            margin-top: 2rem;
+        }
+        .social-media a {
+            color: #2d2d2d;
+            margin: 0 15px;
+            text-decoration: none;
+            font-size: 1.5rem;
+            transition: color 0.3s;
+        }
+        .social-media a:hover {
+            color: #ffab00;
+        }
+        footer {
+            background: #2d2d2d;
+            color: #fff;
+            text-align: center;
+            padding: 1rem 0;
+            margin-top: 2rem;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Elite Advices with Eeshit</h1>
+        <p>Your Guide to Smart Investments in Mutual Funds and the Share Market</p>
+    </header>
+    <div class="container">
+        <div class="section">
+            <h2>About the Page</h2>
+            <p>Welcome to "Elite Advices with Eeshit," your comprehensive guide to investing in mutual funds and the share market. This page is created by Eeshit Mishra, a commerce student with a passion for finance and investments. Here, you will find detailed information about various investment options, stock prices, holding periods, and much more.</p>
+        </div>
+        
+        <div class="section">
+            <h2>Mutual Funds</h2>
+            <p>Mutual funds are a great way to diversify your investment portfolio. They pool money from multiple investors to invest in a diversified portfolio of stocks, bonds, or other securities.</p>
+            <ul class="mutual-fund-list">
+                <li class="fund-item">
+                    <h3>HDFC Equity Fund</h3>
+                    <p>Category: Equity</p>
+                    <p>Risk Level: High</p>
+                    <p>Recommended Holding Period: 5-7 years</p>
+                </li>
+                <li class="fund-item">
+                    <h3>SBI Bluechip Fund</h3>
+                    <p>Category: Large Cap</p>
+                    <p>Risk Level: Moderate</p>
+                    <p>Recommended Holding Period: 3-5 years</p>
+                </li>
+                <li class="fund-item">
+                    <h3>ICICI Prudential Balanced Advantage Fund</h3>
+                    <p>Category: Hybrid</p>
+                    <p>Risk Level: Moderate</p>
+                    <p>Recommended Holding Period: 3-5 years</p>
+                </li>
+                <li class="fund-item">
+                    <h3>Axis Long Term Equity Fund</h3>
+                    <p>Category: ELSS</p>
+                    <p>Risk Level: High</p>
+                    <p>Recommended Holding Period: 5-7 years</p>
+                </li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Stocks to Invest in 2024</h2>
+            <p>Investing in stocks can yield high returns if done wisely. Here are some recommended stocks across various sectors with their prices and suggested holding periods.</p>
+            <ul class="stock-list">
+                <li class="stock-item">
+                    <h3>Reliance Industries</h3>
+                    <p>Sector: Energy, Telecom, Retail</p>
+                    <p>Price: ₹2500</p>
+                    <p>Recommended Holding Period: Long-term (5-10 years)</p>
+                </li>
+                <li class="stock-item">
+                    <h3>Tata Consultancy Services (TCS)</h3>
+                    <p>Sector: IT</p>
+                    <p>Price: ₹3500</p>
+                    <p>Recommended Holding Period: Long-term (5-10 years)</p>
+                </li>
+                <li class="stock-item">
+                    <h3>HDFC Bank</h3>
+                    <p>Sector: Banking</p>
+                    <p>Price: ₹1500</p>
+                    <p>Recommended Holding Period: Medium-term (3-5 years)</p>
+                </li>
+                <li class="stock-item">
+                    <h3>Infosys</h3>
+                    <p>Sector: IT</p>
+                    <p>Price: ₹1600</p>
+                    <p>Recommended Holding Period: Long-term (5-10 years)</p>
+                </li>
+                <li class="stock-item">
+                    <h3>Bajaj Finance</h3>
+                    <p>Sector: Financial Services</p>
+                    <p>Price: ₹7000</p>
+                    <p>Recommended Holding Period: Long-term (5-10 years)</p>
+                </li>
+                <li class="stock-item">
+                    <h3>Maruti Suzuki</h3>
+                    <p>Sector: Automobile</p>
+                    <p>Price: ₹8000</p>
+                    <p>Recommended Holding Period: Medium-term (3-5 years)</p>
+                </li>
+                <li class="stock-item">
+                    <h3>ITC Limited</h3>
+                    <p>Sector: FMCG</p>
+                    <p>Price: ₹350</p>
+                    <p>Recommended Holding Period: Medium-term (3-5 years)</p>
+                </li>
+                <li class="stock-item">
+                    <h3>Asian Paints</h3>
+                    <p>Sector: Consumer Goods</p>
+                    <p>Price: ₹3200</p>
+                    <p>Recommended Holding Period: Long-term (5-10 years)</p>
+                </li>
+                <li class="stock-item">
+                    <h3>Coal India</h3>
+                    <p>Sector: Mining</p>
+                    <p>Price: ₹180</p>
+                    <p>Recommended Holding Period: Short-term (1-3 years)</p>
+                </li>
+                <li class="stock-item">
+                    <h3>IndusInd Bank</h3>
+                    <p>Sector: Banking</p>
+                    <p>Price: ₹1200</p>
+                    <p>Recommended Holding Period: Medium-term (3-5 years)</p>
+                </li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Investment Tips</h2>
+            <p>Investing in the share market and mutual funds can be rewarding, but it requires knowledge and patience. Here are some tips for successful investing:</p>
+            <ul>
+                <li>Diversify your portfolio to manage risk.</li>
+                <li>Invest with a long-term perspective to ride out market volatility.</li>
+                <li>Regularly review and rebalance your portfolio.</li>
+                <li>Stay informed about market trends and company performance.</li>
+                <li>Consider consulting with a financial advisor for personalized advice.</li>
+            </ul>
+        </div>
+
+        <h2>Contact</h2>
+        <p>If you'd like to get in touch with me, you can find me on social media:</p>
+        <div class="social-media">
+            <a href="https://twitter.com/eeshitmishra" target="_blank">Twitter</a>
+            <a href="https://instagram.com/eeshitmishra" target="_blank">Instagram</a>
+        </div>
+    </div>
+    <footer>
+        <p>&copy; 2024 Eeshit Mishra. All rights reserved.</p>
+    </footer>
+</body>
+</html>
